@@ -92,7 +92,7 @@ export const projects = [
     id: 2,
     title: "Online Proctoring System",
     des: "An online proctoring system that helps reduce potential cheating risks in online examination.",
-    img: "/onlineproc.png",
+    img: "/online-proc-logo-new.png",
     iconLists: [
       "/python-icon.svg",
       "/opencv-icon.svg",
@@ -102,14 +102,20 @@ export const projects = [
     ],
     link: "https://github.com/DevanshAg1151",
   },
-  // {
-  //   id: 3,
-  //   title: "AI Image SaaS - Canva Application",
-  //   des: "A REAL Software-as-a-Service app with AI features and a payments and credits system using the latest tech stack.",
-  //   img: "/p3.svg",
-  //   iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/c.svg"],
-  //   link: "/ui.aiimg.com",
-  // },
+  {
+    id: 3,
+    title:
+      "BlindViz - An Intelligent Navigation & Environmental Awareness for the Visually Impaired",
+    des: "A mobile application specially designed to aid the visually impaired by providing real-time object detection and scene description using the latest advancements in the AI technology.",
+    img: "/blindviz-logo.png",
+    iconLists: [
+      "/flutter-icon.svg",
+      "/gpt-icon.svg",
+      "/yolo-icon.svg",
+      "/android-studio-icon.svg",
+    ],
+    link: "https://github.com/DevanshAg1151",
+  },
   // {
   //   id: 4,
   //   title: "Animated Apple Iphone 3D Website",
