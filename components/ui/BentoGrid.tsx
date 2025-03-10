@@ -72,7 +72,7 @@ export const BentoGridItem = ({
   // };
 
   const handleCopy = () => {
-    const resumeUrl = "Devansh Resume.pdf"; // Specify the path to your resume file
+    const resumeUrl = "Devansh Agarwal Resume.pdf"; // Specify the path to your resume file
     const link = document.createElement("a");
     link.href = resumeUrl;
     link.download = "Devansh Agarwal Resume.pdf"; // Name of the file when downloaded
