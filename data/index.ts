@@ -124,6 +124,14 @@ export const projects = [
     iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
     link: "https://github.com/DevanshAg1151/Apple-Clone-Website.git",
   },
+  {
+    id: 5,
+    title: "Briefly.",
+    des: "News, Simplified. Briefly is the to-go application for the people on the move to read the currrent affairs.",
+    img: "/briefly-logo.png",
+    iconLists: ["/pyhton-icon.svg", "/css-icon.svg", "/html5-icon.svg"],
+    link: "https://github.com/DevanshAg1151/Briefly-News-Simplified.git",
+  },
 ];
 
 export const testimonials = [
@@ -131,7 +139,7 @@ export const testimonials = [
     quote:
       "Currently pursuing a B.Tech degree in Computer Science, I have built a solid foundation in key subjects such as DBMS, OS, Computer Networking, Data Structures and Algorithms (DSA), and Artificial Intelligence/Machine Learning (AI/ML).",
     name: "Amity University Noida",
-    title: "CGPA: 9.10",
+    title: "CGPA: 9.15",
     img: "/amity-logo.svg",
   },
 
